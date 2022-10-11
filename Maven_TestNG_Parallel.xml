@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+  <test parallel="classes" thread-count="2" name="Test">
+    <classes>   
+      <class name="com.SauceDemo.TestClasses.TC07_LoginPageValidation_Using_TestNGAssertions"/>
+      <class name="com.SauceDemo.TestClasses.TC08_LogOutPageValidation_Using_TestNGAssertions"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->

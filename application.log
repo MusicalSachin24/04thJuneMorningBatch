@@ -1,0 +1,244 @@
+2022-10-09 13:26:36,471  INFO [TestNG-test=Test-1] Maven_SauceDemo04thJuneMorning:53 - User name has been entered successfully
+2022-10-09 13:26:36,471  INFO [TestNG-test=Test-2] Maven_SauceDemo04thJuneMorning:53 - User name has been entered successfully
+2022-10-09 13:26:36,825  INFO [TestNG-test=Test-1] Maven_SauceDemo04thJuneMorning:55 - Password has been entered successfully
+2022-10-09 13:26:36,848  INFO [TestNG-test=Test-2] Maven_SauceDemo04thJuneMorning:55 - Password has been entered successfully
+2022-10-09 13:26:37,570  INFO [TestNG-test=Test-1] Maven_SauceDemo04thJuneMorning:57 - Login button has been clicked successfully
+2022-10-09 13:26:37,578  INFO [TestNG-test=Test-2] Maven_SauceDemo04thJuneMorning:57 - Login button has been clicked successfully
+2022-10-09 13:26:37,641  INFO [TestNG-test=Test-1] Maven_SauceDemo04thJuneMorning:15 - Given url is:--> https://www.saucedemo.com/inventory.html
+2022-10-09 13:26:37,643  INFO [TestNG-test=Test-1] Maven_SauceDemo04thJuneMorning:17 - Given Login Page title id is:--> Swag Labs
+2022-10-09 13:26:39,218  INFO [TestNG-test=Test-2] Maven_SauceDemo04thJuneMorning:19 - Current url is:--> https://www.saucedemo.com/inventory.html
+2022-10-09 13:26:39,383  INFO [TestNG-test=Test-1] Maven_SauceDemo04thJuneMorning:20 - Actual url is:--> https://www.saucedemo.com/inventory.html
+2022-10-09 13:26:39,554  INFO [TestNG-test=Test-1] Maven_SauceDemo04thJuneMorning:22 - Actual title of login page is:--> Swag Labs
+2022-10-09 13:26:39,563  INFO [TestNG-test=Test-1] Maven_SauceDemo04thJuneMorning:29 - Assertions have been applied.
+2022-10-09 13:26:40,360  INFO [TestNG-test=Test-2] Maven_SauceDemo04thJuneMorning:24 - true
+2022-10-09 13:26:40,361  INFO [TestNG-test=Test-2] Maven_SauceDemo04thJuneMorning:25 - App logo has been checked
+2022-10-09 13:26:40,534  INFO [TestNG-test=Test-2] Maven_SauceDemo04thJuneMorning:28 - Menu button has been clicked successfully
+2022-10-09 13:26:40,685  INFO [TestNG-test=Test-2] Maven_SauceDemo04thJuneMorning:31 - Logout button has been clicked successfully
+2022-10-09 13:26:41,140  INFO [TestNG-test=Test-1] Maven_SauceDemo04thJuneMorning:68 - Browser is closed
+2022-10-09 13:26:41,142  INFO [TestNG-test=Test-1] Maven_SauceDemo04thJuneMorning:69 - End of program
+2022-10-09 13:26:48,218  INFO [TestNG-test=Test-2] Maven_SauceDemo04thJuneMorning:38 - Given url is:-->https://www.saucedemo.com/inventory.html
+2022-10-09 13:26:48,219  INFO [TestNG-test=Test-2] Maven_SauceDemo04thJuneMorning:42 - Assertion has been applied.
+2022-10-09 13:26:49,197  INFO [TestNG-test=Test-2] Maven_SauceDemo04thJuneMorning:68 - Browser is closed
+2022-10-09 13:26:49,198  INFO [TestNG-test=Test-2] Maven_SauceDemo04thJuneMorning:69 - End of program
+2022-10-09 13:58:06,245  INFO - User name has been entered successfully
+2022-10-09 13:58:06,256  INFO - User name has been entered successfully
+2022-10-09 13:58:06,758  INFO - Password has been entered successfully
+2022-10-09 13:58:06,758  INFO - Password has been entered successfully
+2022-10-09 13:58:08,493  INFO - Login button has been clicked successfully
+2022-10-09 13:58:08,759  INFO - Login button has been clicked successfully
+2022-10-09 13:58:08,774  INFO - Given url is:--> https://www.saucedemo.com/inventory.html
+2022-10-09 13:58:08,775  INFO - Given Login Page title id is:--> Swag Labs
+2022-10-09 13:58:09,593  INFO - Actual url is:--> https://www.saucedemo.com/inventory.html
+2022-10-09 13:58:09,743  INFO - Actual title of login page is:--> Swag Labs
+2022-10-09 13:58:09,874  INFO - Assertions have been applied.
+2022-10-09 13:58:10,008  INFO - Current url is:--> https://www.saucedemo.com/inventory.html
+2022-10-09 13:58:15,717  INFO - true
+2022-10-09 13:58:15,718  INFO - App logo has been checked
+2022-10-09 13:58:15,922  INFO - Browser is closed
+2022-10-09 13:58:15,922  INFO - End of program
+2022-10-09 13:58:15,937  INFO - Menu button has been clicked successfully
+2022-10-09 13:58:16,212  INFO - Logout button has been clicked successfully
+2022-10-09 13:58:26,062  INFO - Given url is:-->https://www.saucedemo.com/inventory.html
+2022-10-09 13:58:26,063  INFO - Assertion has been applied.
+2022-10-09 13:58:28,015  INFO - Browser is closed
+2022-10-09 13:58:28,015  INFO - End of program
+2022-10-09 14:02:06,622  INFO [TestNG-test=Test-2] Maven_SauceDemo04thJuneMorning:53 - User name has been entered successfully
+2022-10-09 14:02:06,640  INFO [TestNG-test=Test-1] Maven_SauceDemo04thJuneMorning:53 - User name has been entered successfully
+2022-10-09 14:02:07,016  INFO [TestNG-test=Test-1] Maven_SauceDemo04thJuneMorning:55 - Password has been entered successfully
+2022-10-09 14:02:07,020  INFO [TestNG-test=Test-2] Maven_SauceDemo04thJuneMorning:55 - Password has been entered successfully
+2022-10-09 14:02:07,446  INFO [TestNG-test=Test-1] Maven_SauceDemo04thJuneMorning:57 - Login button has been clicked successfully
+2022-10-09 14:02:07,522  INFO [TestNG-test=Test-2] Maven_SauceDemo04thJuneMorning:57 - Login button has been clicked successfully
+2022-10-09 14:02:07,604  INFO [TestNG-test=Test-1] Maven_SauceDemo04thJuneMorning:15 - Given url is:--> https://www.saucedemo.com/inventory.html
+2022-10-09 14:02:07,607  INFO [TestNG-test=Test-1] Maven_SauceDemo04thJuneMorning:17 - Given Login Page title id is:--> Swag Labs
+2022-10-09 14:02:07,721  INFO [TestNG-test=Test-2] Maven_SauceDemo04thJuneMorning:19 - Current url is:--> https://www.saucedemo.com/inventory.html
+2022-10-09 14:02:07,736  INFO [TestNG-test=Test-1] Maven_SauceDemo04thJuneMorning:20 - Actual url is:--> https://www.saucedemo.com/inventory.html
+2022-10-09 14:02:07,863  INFO [TestNG-test=Test-1] Maven_SauceDemo04thJuneMorning:22 - Actual title of login page is:--> Swag Labs
+2022-10-09 14:02:07,870  INFO [TestNG-test=Test-1] Maven_SauceDemo04thJuneMorning:29 - Assertions have been applied.
+2022-10-09 14:02:08,291  INFO [TestNG-test=Test-2] Maven_SauceDemo04thJuneMorning:24 - true
+2022-10-09 14:02:08,292  INFO [TestNG-test=Test-2] Maven_SauceDemo04thJuneMorning:25 - App logo has been checked
+2022-10-09 14:02:08,419  INFO [TestNG-test=Test-2] Maven_SauceDemo04thJuneMorning:28 - Menu button has been clicked successfully
+2022-10-09 14:02:08,709  INFO [TestNG-test=Test-2] Maven_SauceDemo04thJuneMorning:31 - Logout button has been clicked successfully
+2022-10-09 14:02:10,399  INFO [TestNG-test=Test-1] Maven_SauceDemo04thJuneMorning:68 - Browser is closed
+2022-10-09 14:02:10,400  INFO [TestNG-test=Test-1] Maven_SauceDemo04thJuneMorning:69 - End of program
+2022-10-09 14:02:16,284  INFO [TestNG-test=Test-2] Maven_SauceDemo04thJuneMorning:38 - Given url is:-->https://www.saucedemo.com/inventory.html
+2022-10-09 14:02:16,285  INFO [TestNG-test=Test-2] Maven_SauceDemo04thJuneMorning:42 - Assertion has been applied.
+2022-10-09 14:02:17,252  INFO [TestNG-test=Test-2] Maven_SauceDemo04thJuneMorning:68 - Browser is closed
+2022-10-09 14:02:17,253  INFO [TestNG-test=Test-2] Maven_SauceDemo04thJuneMorning:69 - End of program
+2022-10-09 14:03:40,477  INFO [TestNG-test=Test-1] Maven_SauceDemo04thJuneMorning:53 - User name has been entered successfully
+2022-10-09 14:03:40,861  INFO [TestNG-test=Test-2] Maven_SauceDemo04thJuneMorning:53 - User name has been entered successfully
+2022-10-09 14:03:40,953  INFO [TestNG-test=Test-1] Maven_SauceDemo04thJuneMorning:55 - Password has been entered successfully
+2022-10-09 14:03:41,284  INFO [TestNG-test=Test-2] Maven_SauceDemo04thJuneMorning:55 - Password has been entered successfully
+2022-10-09 14:03:41,664  INFO [TestNG-test=Test-1] Maven_SauceDemo04thJuneMorning:57 - Login button has been clicked successfully
+2022-10-09 14:03:41,718  INFO [TestNG-test=Test-1] Maven_SauceDemo04thJuneMorning:15 - Given url is:--> https://www.saucedemo.com/inventory.html
+2022-10-09 14:03:41,719  INFO [TestNG-test=Test-1] Maven_SauceDemo04thJuneMorning:17 - Given Login Page title id is:--> Swag Labs
+2022-10-09 14:03:42,087  INFO [TestNG-test=Test-1] Maven_SauceDemo04thJuneMorning:20 - Actual url is:--> https://www.saucedemo.com/inventory.html
+2022-10-09 14:03:42,162  INFO [TestNG-test=Test-2] Maven_SauceDemo04thJuneMorning:57 - Login button has been clicked successfully
+2022-10-09 14:03:42,233  INFO [TestNG-test=Test-1] Maven_SauceDemo04thJuneMorning:22 - Actual title of login page is:--> Swag Labs
+2022-10-09 14:03:42,267  INFO [TestNG-test=Test-1] Maven_SauceDemo04thJuneMorning:29 - Assertions have been applied.
+2022-10-09 14:03:42,631  INFO [TestNG-test=Test-2] Maven_SauceDemo04thJuneMorning:19 - Current url is:--> https://www.saucedemo.com/inventory.html
+2022-10-09 14:03:43,074  INFO [TestNG-test=Test-2] Maven_SauceDemo04thJuneMorning:24 - true
+2022-10-09 14:03:43,074  INFO [TestNG-test=Test-2] Maven_SauceDemo04thJuneMorning:25 - App logo has been checked
+2022-10-09 14:03:43,382  INFO [TestNG-test=Test-2] Maven_SauceDemo04thJuneMorning:28 - Menu button has been clicked successfully
+2022-10-09 14:03:43,385  INFO [TestNG-test=Test-1] Maven_SauceDemo04thJuneMorning:68 - Browser is closed
+2022-10-09 14:03:43,387  INFO [TestNG-test=Test-1] Maven_SauceDemo04thJuneMorning:69 - End of program
+2022-10-09 14:03:43,586  INFO [TestNG-test=Test-2] Maven_SauceDemo04thJuneMorning:31 - Logout button has been clicked successfully
+2022-10-09 14:03:53,129  INFO [TestNG-test=Test-2] Maven_SauceDemo04thJuneMorning:38 - Given url is:-->https://www.saucedemo.com/inventory.html
+2022-10-09 14:03:53,131  INFO [TestNG-test=Test-2] Maven_SauceDemo04thJuneMorning:42 - Assertion has been applied.
+2022-10-09 14:03:54,125  INFO [TestNG-test=Test-2] Maven_SauceDemo04thJuneMorning:68 - Browser is closed
+2022-10-09 14:03:54,126  INFO [TestNG-test=Test-2] Maven_SauceDemo04thJuneMorning:69 - End of program
+2022-10-09 14:04:39,959  INFO [TestNG-test=Test-2] Maven_SauceDemo04thJuneMorning:53 - User name has been entered successfully
+2022-10-09 14:04:40,279  INFO [TestNG-test=Test-1] Maven_SauceDemo04thJuneMorning:53 - User name has been entered successfully
+2022-10-09 14:04:40,419  INFO [TestNG-test=Test-2] Maven_SauceDemo04thJuneMorning:55 - Password has been entered successfully
+2022-10-09 14:04:40,644  INFO [TestNG-test=Test-1] Maven_SauceDemo04thJuneMorning:55 - Password has been entered successfully
+2022-10-09 14:04:40,913  INFO [TestNG-test=Test-2] Maven_SauceDemo04thJuneMorning:57 - Login button has been clicked successfully
+2022-10-09 14:04:41,043  INFO [TestNG-test=Test-2] Maven_SauceDemo04thJuneMorning:19 - Current url is:--> https://www.saucedemo.com/inventory.html
+2022-10-09 14:04:41,360  INFO [TestNG-test=Test-1] Maven_SauceDemo04thJuneMorning:57 - Login button has been clicked successfully
+2022-10-09 14:04:41,368  INFO [TestNG-test=Test-1] Maven_SauceDemo04thJuneMorning:15 - Given url is:--> https://www.saucedemo.com/inventory.html
+2022-10-09 14:04:41,371  INFO [TestNG-test=Test-1] Maven_SauceDemo04thJuneMorning:17 - Given Login Page title id is:--> Swag Labs
+2022-10-09 14:04:41,458  INFO [TestNG-test=Test-1] Maven_SauceDemo04thJuneMorning:20 - Actual url is:--> https://www.saucedemo.com/inventory.html
+2022-10-09 14:04:41,516  INFO [TestNG-test=Test-1] Maven_SauceDemo04thJuneMorning:22 - Actual title of login page is:--> Swag Labs
+2022-10-09 14:04:41,523  INFO [TestNG-test=Test-1] Maven_SauceDemo04thJuneMorning:29 - Assertions have been applied.
+2022-10-09 14:04:42,066  INFO [TestNG-test=Test-2] Maven_SauceDemo04thJuneMorning:24 - true
+2022-10-09 14:04:42,067  INFO [TestNG-test=Test-2] Maven_SauceDemo04thJuneMorning:25 - App logo has been checked
+2022-10-09 14:04:42,350  INFO [TestNG-test=Test-2] Maven_SauceDemo04thJuneMorning:28 - Menu button has been clicked successfully
+2022-10-09 14:04:42,648  INFO [TestNG-test=Test-2] Maven_SauceDemo04thJuneMorning:31 - Logout button has been clicked successfully
+2022-10-09 14:04:42,847  INFO [TestNG-test=Test-1] Maven_SauceDemo04thJuneMorning:68 - Browser is closed
+2022-10-09 14:04:42,848  INFO [TestNG-test=Test-1] Maven_SauceDemo04thJuneMorning:69 - End of program
+2022-10-09 14:04:50,285  INFO [TestNG-test=Test-2] Maven_SauceDemo04thJuneMorning:38 - Given url is:-->https://www.saucedemo.com/inventory.html
+2022-10-09 14:04:50,290  INFO [TestNG-test=Test-2] Maven_SauceDemo04thJuneMorning:42 - Assertion has been applied.
+2022-10-09 14:04:52,664  INFO [TestNG-test=Test-2] Maven_SauceDemo04thJuneMorning:68 - Browser is closed
+2022-10-09 14:04:52,665  INFO [TestNG-test=Test-2] Maven_SauceDemo04thJuneMorning:69 - End of program
+2022-10-09 14:06:07,588  INFO [TestNG-test=Test-1] Maven_SauceDemo04thJuneMorning:53 - User name has been entered successfully
+2022-10-09 14:06:08,041  INFO [TestNG-test=Test-1] Maven_SauceDemo04thJuneMorning:55 - Password has been entered successfully
+2022-10-09 14:06:08,142  INFO [TestNG-test=Test-2] Maven_SauceDemo04thJuneMorning:53 - User name has been entered successfully
+2022-10-09 14:06:08,487  INFO [TestNG-test=Test-2] Maven_SauceDemo04thJuneMorning:55 - Password has been entered successfully
+2022-10-09 14:06:08,542  INFO [TestNG-test=Test-1] Maven_SauceDemo04thJuneMorning:57 - Login button has been clicked successfully
+2022-10-09 14:06:08,600  INFO [TestNG-test=Test-1] Maven_SauceDemo04thJuneMorning:15 - Given url is:--> https://www.saucedemo.com/inventory.html
+2022-10-09 14:06:08,607  INFO [TestNG-test=Test-1] Maven_SauceDemo04thJuneMorning:17 - Given Login Page title id is:--> Swag Labs
+2022-10-09 14:06:08,641  INFO [TestNG-test=Test-1] Maven_SauceDemo04thJuneMorning:20 - Actual url is:--> https://www.saucedemo.com/inventory.html
+2022-10-09 14:06:08,668  INFO [TestNG-test=Test-1] Maven_SauceDemo04thJuneMorning:22 - Actual title of login page is:--> Swag Labs
+2022-10-09 14:06:08,677  INFO [TestNG-test=Test-1] Maven_SauceDemo04thJuneMorning:29 - Assertions have been applied.
+2022-10-09 14:06:09,262  INFO [TestNG-test=Test-2] Maven_SauceDemo04thJuneMorning:57 - Login button has been clicked successfully
+2022-10-09 14:06:09,306  INFO [TestNG-test=Test-2] Maven_SauceDemo04thJuneMorning:19 - Current url is:--> https://www.saucedemo.com/inventory.html
+2022-10-09 14:06:09,710  INFO [TestNG-test=Test-1] Maven_SauceDemo04thJuneMorning:68 - Browser is closed
+2022-10-09 14:06:09,712  INFO [TestNG-test=Test-1] Maven_SauceDemo04thJuneMorning:69 - End of program
+2022-10-09 14:06:10,041  INFO [TestNG-test=Test-2] Maven_SauceDemo04thJuneMorning:24 - true
+2022-10-09 14:06:10,042  INFO [TestNG-test=Test-2] Maven_SauceDemo04thJuneMorning:25 - App logo has been checked
+2022-10-09 14:06:10,175  INFO [TestNG-test=Test-2] Maven_SauceDemo04thJuneMorning:28 - Menu button has been clicked successfully
+2022-10-09 14:06:10,428  INFO [TestNG-test=Test-2] Maven_SauceDemo04thJuneMorning:31 - Logout button has been clicked successfully
+2022-10-09 14:06:17,848  INFO [TestNG-test=Test-2] Maven_SauceDemo04thJuneMorning:38 - Given url is:-->https://www.saucedemo.com/inventory.html
+2022-10-09 14:06:17,851  INFO [TestNG-test=Test-2] Maven_SauceDemo04thJuneMorning:42 - Assertion has been applied.
+2022-10-09 14:06:18,305  INFO [TestNG-test=Test-2] Maven_SauceDemo04thJuneMorning:68 - Browser is closed
+2022-10-09 14:06:18,307  INFO [TestNG-test=Test-2] Maven_SauceDemo04thJuneMorning:69 - End of program
+2022-10-09 15:51:27,222  INFO [TestNG-test=FirefoxTest-2] Maven_SauceDemo04thJuneMorning:51 - Screenshot login page is captured
+2022-10-09 15:51:28,213  INFO [TestNG-test=FirefoxTest-1] Maven_SauceDemo04thJuneMorning:51 - Screenshot login page is captured
+2022-10-09 15:51:28,763  INFO [TestNG-test=FirefoxTest-1] Maven_SauceDemo04thJuneMorning:55 - User name has been entered successfully
+2022-10-09 15:51:28,763  INFO [TestNG-test=FirefoxTest-2] Maven_SauceDemo04thJuneMorning:55 - User name has been entered successfully
+2022-10-09 15:51:29,054  INFO [TestNG-test=FirefoxTest-2] Maven_SauceDemo04thJuneMorning:57 - Password has been entered successfully
+2022-10-09 15:51:29,103  INFO [TestNG-test=FirefoxTest-1] Maven_SauceDemo04thJuneMorning:57 - Password has been entered successfully
+2022-10-09 15:51:30,211  INFO [TestNG-test=FirefoxTest-1] Maven_SauceDemo04thJuneMorning:59 - Login button has been clicked successfully
+2022-10-09 15:51:30,526  INFO [TestNG-test=FirefoxTest-2] Maven_SauceDemo04thJuneMorning:59 - Login button has been clicked successfully
+2022-10-09 15:51:42,458  INFO [TestNG-test=FirefoxTest-1] Maven_SauceDemo04thJuneMorning:64 - Screenshot of homepage is captured
+2022-10-09 15:51:42,515  INFO [TestNG-test=FirefoxTest-1] Maven_SauceDemo04thJuneMorning:15 - Given url is:--> https://www.saucedemo.com/inventory.html
+2022-10-09 15:51:42,516  INFO [TestNG-test=FirefoxTest-1] Maven_SauceDemo04thJuneMorning:17 - Given Login Page title id is:--> Swag Labs
+2022-10-09 15:51:42,565  INFO [TestNG-test=FirefoxTest-1] Maven_SauceDemo04thJuneMorning:20 - Actual url is:--> https://www.saucedemo.com/inventory.html
+2022-10-09 15:51:42,643  INFO [TestNG-test=FirefoxTest-1] Maven_SauceDemo04thJuneMorning:22 - Actual title of login page is:--> Swag Labs
+2022-10-09 15:51:42,663  INFO [TestNG-test=FirefoxTest-1] Maven_SauceDemo04thJuneMorning:29 - Assertions have been applied.
+2022-10-09 15:51:42,833  INFO [TestNG-test=FirefoxTest-2] Maven_SauceDemo04thJuneMorning:64 - Screenshot of homepage is captured
+2022-10-09 15:51:42,931  INFO [TestNG-test=FirefoxTest-2] Maven_SauceDemo04thJuneMorning:19 - Current url is:--> https://www.saucedemo.com/inventory.html
+2022-10-09 15:51:43,718  INFO [TestNG-test=FirefoxTest-2] Maven_SauceDemo04thJuneMorning:24 - true
+2022-10-09 15:51:43,719  INFO [TestNG-test=FirefoxTest-2] Maven_SauceDemo04thJuneMorning:25 - App logo has been checked
+2022-10-09 15:51:44,093  INFO [TestNG-test=FirefoxTest-2] Maven_SauceDemo04thJuneMorning:28 - Menu button has been clicked successfully
+2022-10-09 15:51:45,441  INFO [TestNG-test=FirefoxTest-1] Maven_SauceDemo04thJuneMorning:72 - Browser is closed
+2022-10-09 15:51:45,442  INFO [TestNG-test=FirefoxTest-1] Maven_SauceDemo04thJuneMorning:73 - End of program
+2022-10-09 15:51:56,337  INFO [TestNG-test=FirefoxTest-2] Maven_SauceDemo04thJuneMorning:33 - Screenshot of Menu is captured
+2022-10-09 15:51:56,740  INFO [TestNG-test=FirefoxTest-2] Maven_SauceDemo04thJuneMorning:36 - Logout button has been clicked successfully
+2022-10-09 15:52:02,981  INFO [TestNG-test=FirefoxTest-2] Maven_SauceDemo04thJuneMorning:39 - Screenshot after logout is captured
+2022-10-09 15:52:04,983  INFO [TestNG-test=FirefoxTest-2] Maven_SauceDemo04thJuneMorning:44 - Given url is:-->https://www.saucedemo.com/inventory.html
+2022-10-09 15:52:04,984  INFO [TestNG-test=FirefoxTest-2] Maven_SauceDemo04thJuneMorning:48 - Assertion has been applied.
+2022-10-09 15:52:08,270  INFO [TestNG-test=FirefoxTest-2] Maven_SauceDemo04thJuneMorning:72 - Browser is closed
+2022-10-09 15:52:08,271  INFO [TestNG-test=FirefoxTest-2] Maven_SauceDemo04thJuneMorning:73 - End of program
+2022-10-09 15:52:34,403  INFO [TestNG-test=ChromeTest-2] Maven_SauceDemo04thJuneMorning:51 - Screenshot login page is captured
+2022-10-09 15:52:36,386  INFO [TestNG-test=ChromeTest-1] Maven_SauceDemo04thJuneMorning:51 - Screenshot login page is captured
+2022-10-09 15:52:39,831  INFO [TestNG-test=ChromeTest-1] Maven_SauceDemo04thJuneMorning:55 - User name has been entered successfully
+2022-10-09 15:52:39,843  INFO [TestNG-test=ChromeTest-2] Maven_SauceDemo04thJuneMorning:55 - User name has been entered successfully
+2022-10-09 15:52:40,536  INFO [TestNG-test=ChromeTest-1] Maven_SauceDemo04thJuneMorning:57 - Password has been entered successfully
+2022-10-09 15:52:40,672  INFO [TestNG-test=ChromeTest-2] Maven_SauceDemo04thJuneMorning:57 - Password has been entered successfully
+2022-10-09 15:52:42,452  INFO [TestNG-test=ChromeTest-1] Maven_SauceDemo04thJuneMorning:59 - Login button has been clicked successfully
+2022-10-09 15:52:45,686  INFO [TestNG-test=ChromeTest-2] Maven_SauceDemo04thJuneMorning:59 - Login button has been clicked successfully
+2022-10-09 15:52:55,483  INFO [TestNG-test=ChromeTest-1] Maven_SauceDemo04thJuneMorning:64 - Screenshot of homepage is captured
+2022-10-09 15:52:55,497  INFO [TestNG-test=ChromeTest-1] Maven_SauceDemo04thJuneMorning:15 - Given url is:--> https://www.saucedemo.com/inventory.html
+2022-10-09 15:52:55,498  INFO [TestNG-test=ChromeTest-1] Maven_SauceDemo04thJuneMorning:17 - Given Login Page title id is:--> Swag Labs
+2022-10-09 15:52:55,534  INFO [TestNG-test=ChromeTest-1] Maven_SauceDemo04thJuneMorning:20 - Actual url is:--> https://www.saucedemo.com/inventory.html
+2022-10-09 15:52:55,670  INFO [TestNG-test=ChromeTest-1] Maven_SauceDemo04thJuneMorning:22 - Actual title of login page is:--> Swag Labs
+2022-10-09 15:52:55,677  INFO [TestNG-test=ChromeTest-1] Maven_SauceDemo04thJuneMorning:29 - Assertions have been applied.
+2022-10-09 15:53:00,573  INFO [TestNG-test=ChromeTest-1] Maven_SauceDemo04thJuneMorning:72 - Browser is closed
+2022-10-09 15:53:00,574  INFO [TestNG-test=ChromeTest-1] Maven_SauceDemo04thJuneMorning:73 - End of program
+2022-10-09 15:53:02,052  INFO [TestNG-test=ChromeTest-2] Maven_SauceDemo04thJuneMorning:64 - Screenshot of homepage is captured
+2022-10-09 15:53:02,091  INFO [TestNG-test=ChromeTest-2] Maven_SauceDemo04thJuneMorning:19 - Current url is:--> https://www.saucedemo.com/inventory.html
+2022-10-09 15:53:02,663  INFO [TestNG-test=ChromeTest-2] Maven_SauceDemo04thJuneMorning:24 - true
+2022-10-09 15:53:02,664  INFO [TestNG-test=ChromeTest-2] Maven_SauceDemo04thJuneMorning:25 - App logo has been checked
+2022-10-09 15:53:02,951  INFO [TestNG-test=ChromeTest-2] Maven_SauceDemo04thJuneMorning:28 - Menu button has been clicked successfully
+2022-10-09 15:53:16,006  INFO [TestNG-test=ChromeTest-2] Maven_SauceDemo04thJuneMorning:33 - Screenshot of Menu is captured
+2022-10-09 15:53:16,448  INFO [TestNG-test=ChromeTest-2] Maven_SauceDemo04thJuneMorning:36 - Logout button has been clicked successfully
+2022-10-09 15:53:21,880  INFO [TestNG-test=ChromeTest-2] Maven_SauceDemo04thJuneMorning:39 - Screenshot after logout is captured
+2022-10-09 15:53:23,882  INFO [TestNG-test=ChromeTest-2] Maven_SauceDemo04thJuneMorning:44 - Given url is:-->https://www.saucedemo.com/inventory.html
+2022-10-09 15:53:23,882  INFO [TestNG-test=ChromeTest-2] Maven_SauceDemo04thJuneMorning:48 - Assertion has been applied.
+2022-10-09 15:53:25,025  INFO [TestNG-test=ChromeTest-2] Maven_SauceDemo04thJuneMorning:72 - Browser is closed
+2022-10-09 15:53:25,026  INFO [TestNG-test=ChromeTest-2] Maven_SauceDemo04thJuneMorning:73 - End of program
+2022-10-09 22:25:35,816  INFO [main] Maven_SauceDemo04thJuneMorning:51 - Screenshot login page is captured
+2022-10-09 22:25:38,771  INFO [main] Maven_SauceDemo04thJuneMorning:55 - User name has been entered successfully
+2022-10-09 22:25:39,410  INFO [main] Maven_SauceDemo04thJuneMorning:57 - Password has been entered successfully
+2022-10-09 22:25:40,677  INFO [main] Maven_SauceDemo04thJuneMorning:59 - Login button has been clicked successfully
+2022-10-09 22:25:53,497  INFO [main] Maven_SauceDemo04thJuneMorning:64 - Screenshot of homepage is captured
+2022-10-09 22:25:53,556  INFO [main] Maven_SauceDemo04thJuneMorning:14 - Given url is:--> https://www.saucedemo.com/inventory.html
+2022-10-09 22:25:53,558  INFO [main] Maven_SauceDemo04thJuneMorning:16 - Given Login Page title id is:--> Swag Labs
+2022-10-09 22:25:53,592  INFO [main] Maven_SauceDemo04thJuneMorning:19 - Actual url is:--> https://www.saucedemo.com/inventory.html
+2022-10-09 22:25:53,720  INFO [main] Maven_SauceDemo04thJuneMorning:21 - Actual title of login page is:--> Swag Labs
+2022-10-09 22:25:53,737  INFO [main] Maven_SauceDemo04thJuneMorning:27 - Assertions have been applied.
+2022-10-09 22:25:56,636  INFO [main] Maven_SauceDemo04thJuneMorning:72 - Browser is closed
+2022-10-09 22:25:56,638  INFO [main] Maven_SauceDemo04thJuneMorning:73 - End of program
+2022-10-09 22:26:18,703  INFO [main] Maven_SauceDemo04thJuneMorning:51 - Screenshot login page is captured
+2022-10-09 22:26:19,248  INFO [main] Maven_SauceDemo04thJuneMorning:55 - User name has been entered successfully
+2022-10-09 22:26:19,639  INFO [main] Maven_SauceDemo04thJuneMorning:57 - Password has been entered successfully
+2022-10-09 22:26:20,031  INFO [main] Maven_SauceDemo04thJuneMorning:59 - Login button has been clicked successfully
+2022-10-09 22:26:32,876  INFO [main] Maven_SauceDemo04thJuneMorning:64 - Screenshot of homepage is captured
+2022-10-09 22:26:32,911  INFO [main] Maven_SauceDemo04thJuneMorning:19 - Current url is:--> https://www.saucedemo.com/inventory.html
+2022-10-09 22:26:33,701  INFO [main] Maven_SauceDemo04thJuneMorning:24 - true
+2022-10-09 22:26:33,702  INFO [main] Maven_SauceDemo04thJuneMorning:25 - App logo has been checked
+2022-10-09 22:26:33,907  INFO [main] Maven_SauceDemo04thJuneMorning:28 - Menu button has been clicked successfully
+2022-10-09 22:26:46,730  INFO [main] Maven_SauceDemo04thJuneMorning:33 - Screenshot of Menu is captured
+2022-10-09 22:26:46,955  INFO [main] Maven_SauceDemo04thJuneMorning:36 - Logout button has been clicked successfully
+2022-10-09 22:26:52,456  INFO [main] Maven_SauceDemo04thJuneMorning:39 - Screenshot after logout is captured
+2022-10-09 22:26:54,459  INFO [main] Maven_SauceDemo04thJuneMorning:44 - Given url is:-->https://www.saucedemo.com/inventory.html
+2022-10-09 22:26:54,461  INFO [main] Maven_SauceDemo04thJuneMorning:48 - Assertion has been applied.
+2022-10-09 22:26:55,808  INFO [main] Maven_SauceDemo04thJuneMorning:72 - Browser is closed
+2022-10-09 22:26:55,809  INFO [main] Maven_SauceDemo04thJuneMorning:73 - End of program
+2022-10-09 22:46:32,422  INFO [main] Maven_SauceDemo04thJuneMorning:51 - Screenshot login page is captured
+2022-10-09 22:46:32,850  INFO [main] Maven_SauceDemo04thJuneMorning:55 - User name has been entered successfully
+2022-10-09 22:46:33,133  INFO [main] Maven_SauceDemo04thJuneMorning:57 - Password has been entered successfully
+2022-10-09 22:46:33,583  INFO [main] Maven_SauceDemo04thJuneMorning:59 - Login button has been clicked successfully
+2022-10-09 22:46:46,283  INFO [main] Maven_SauceDemo04thJuneMorning:64 - Screenshot of homepage is captured
+2022-10-09 22:46:46,326  INFO [main] Maven_SauceDemo04thJuneMorning:14 - Given url is:--> https://www.saucedemo.com/inventory.html
+2022-10-09 22:46:46,328  INFO [main] Maven_SauceDemo04thJuneMorning:16 - Given Login Page title id is:--> Swag Labs
+2022-10-09 22:46:46,358  INFO [main] Maven_SauceDemo04thJuneMorning:19 - Actual url is:--> https://www.saucedemo.com/inventory.html
+2022-10-09 22:46:46,517  INFO [main] Maven_SauceDemo04thJuneMorning:21 - Actual title of login page is:--> Swag Labs
+2022-10-09 22:46:46,580  INFO [main] Maven_SauceDemo04thJuneMorning:27 - Assertions have been applied.
+2022-10-09 22:46:48,057  INFO [main] Maven_SauceDemo04thJuneMorning:72 - Browser is closed
+2022-10-09 22:46:48,059  INFO [main] Maven_SauceDemo04thJuneMorning:73 - End of program
+2022-10-09 22:47:03,695  INFO [main] Maven_SauceDemo04thJuneMorning:51 - Screenshot login page is captured
+2022-10-09 22:47:04,051  INFO [main] Maven_SauceDemo04thJuneMorning:55 - User name has been entered successfully
+2022-10-09 22:47:04,319  INFO [main] Maven_SauceDemo04thJuneMorning:57 - Password has been entered successfully
+2022-10-09 22:47:04,649  INFO [main] Maven_SauceDemo04thJuneMorning:59 - Login button has been clicked successfully
+2022-10-09 22:47:17,452  INFO [main] Maven_SauceDemo04thJuneMorning:64 - Screenshot of homepage is captured
+2022-10-09 22:47:17,483  INFO [main] Maven_SauceDemo04thJuneMorning:19 - Current url is:--> https://www.saucedemo.com/inventory.html
+2022-10-09 22:47:18,422  INFO [main] Maven_SauceDemo04thJuneMorning:24 - true
+2022-10-09 22:47:18,424  INFO [main] Maven_SauceDemo04thJuneMorning:25 - App logo has been checked
+2022-10-09 22:47:18,908  INFO [main] Maven_SauceDemo04thJuneMorning:28 - Menu button has been clicked successfully
+2022-10-09 22:47:31,562  INFO [main] Maven_SauceDemo04thJuneMorning:33 - Screenshot of Menu is captured
+2022-10-09 22:47:31,813  INFO [main] Maven_SauceDemo04thJuneMorning:36 - Logout button has been clicked successfully
+2022-10-09 22:47:37,280  INFO [main] Maven_SauceDemo04thJuneMorning:39 - Screenshot after logout is captured
+2022-10-09 22:47:39,285  INFO [main] Maven_SauceDemo04thJuneMorning:44 - Given url is:-->https://www.saucedemo.com/inventory.html
+2022-10-09 22:47:39,286  INFO [main] Maven_SauceDemo04thJuneMorning:48 - Assertion has been applied.
+2022-10-09 22:47:40,538  INFO [main] Maven_SauceDemo04thJuneMorning:72 - Browser is closed
+2022-10-09 22:47:40,539  INFO [main] Maven_SauceDemo04thJuneMorning:73 - End of program
